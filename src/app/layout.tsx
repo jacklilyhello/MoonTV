@@ -9,7 +9,7 @@ import { ThemeProvider } from '../components/ThemeProvider';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: ' lilyTV',
+  title: ' LilyTV',
   description: '影视聚合',
   manifest: '/manifest.json',
 };
